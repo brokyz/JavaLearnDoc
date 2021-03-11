@@ -11,8 +11,8 @@
   </p> 
   
   <p align="center">
-    <a href="https://13roky.github.io/JavaLearnDoc/" target="_blank">Github演示站点</a> | 
-    <a href="https://broky-dev.gitee.io/myjavalearndoc/" target="_blank">Gitee演示站点</a>
+    <a href="https://13roky.github.io/JavaLearnDoc/" target="_blank">Github演示点</a> | 
+    <a href="https://broky-dev.gitee.io/myjavalearndoc/" target="_blank">Gitee演示点</a>
 
   <!--[文档](https://13roky.github.io/JavaLearnDoc/) | [演示](https://broky-dev.gitee.io/myjavalearndoc)-->
 [![](https://img.shields.io/badge/version-v1.0.0-green)](https://github.com/13roky/JavaLearnDoc) [![](https://img.shields.io/badge/build%20by-docsify-orange)](https://github.com/docsifyjs/docsify) [![](https://img.shields.io/badge/author-13roky-blue)](https://www.cnblogs.com/13roky/)
