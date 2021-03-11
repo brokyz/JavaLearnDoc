@@ -6,6 +6,10 @@
   <p align="center">
     专 注 于 记 录 Java 学 习 过 程 中 的 点 滴 
   </p> 
+  
+  <p align="center">
+    <a herf="https://13roky.github.io/JavaLearnDoc/" target="_blank">Java笔记</a> | 
+    <a herf="https://broky-dev.gitee.io/myjavalearndoc/" target="_blank">Java笔记</a>
 
   [文档](https://13roky.github.io/JavaLearnDoc/) | [演示](https://broky-dev.gitee.io/myjavalearndoc)
 
