@@ -4,6 +4,9 @@
     MyJavaLearnDoc
   </h2>
   <p align="center">
+    私 人 Java 笔 记
+  </p> 
+  <p align="center">
     专 注 于 记 录 Java 学 习 过 程 中 的 点 滴 
   </p> 
   
