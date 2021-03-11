@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="./docs/_media/icon.svg">
+  <img width="160px" style="border-radius:50%" bor src="https://i.vgy.me/GPooJT.png">
   <h2 align="center">
     CNBLOGS THEME SILENCE
   </h2>
@@ -7,7 +7,7 @@
     专 注 于 阅 读 的 博 客 园 主 题
   </p> 
 
-  [文档](https://esofar.github.io/cnblogs-theme-silence/) | [演示](https://www.cnblogs.com/esofar/)
+  [文档](https://13roky.github.io/JavaLearnDoc/) | [演示](https://broky-dev.gitee.io/myjavalearndoc)
 
 
   [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/esofar/cnblogs-theme-silence?include_prereleases&style=flat-square)](https://github.com/esofar/cnblogs-theme-silence/releases)
