@@ -1,6 +1,6 @@
 <!-- docsify封面 -->
 
-<img width="160px" style="border-radius:50%" bor src="https://i.vgy.me/GPooJT.png">
+<img width="160px" bor src="https://i.vgy.me/GPooJT.png">
 
 # **MyJavaLearnDoc**
 [13roky](https://github.com/13roky) の 私 人 Java 笔 记
