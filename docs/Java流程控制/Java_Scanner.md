@@ -1,4 +1,4 @@
-[toc]
+
 
 # Scanner对象
 

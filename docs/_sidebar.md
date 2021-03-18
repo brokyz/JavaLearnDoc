@@ -21,5 +21,12 @@
     - [方法](/Java方法/Java方法.md)
     - [命令行传参](/Java方法/Java命令行传参.md)
     - [递归](/Java方法/Java递归.md)
+  
+- Java数组
+    - [一维数组](/Java数组/Java一维数组.md)
+    - [二维数组](/Java数组/Java二维数组.md)
+    - [Arrays类](/Java数组/JavaArrays类.md)
+    - [冒泡排序](/Java数组/Java冒泡排序.md)
+    - [稀疏数组](/Java数组/Java稀疏数组.md)
 
 - 未完待续

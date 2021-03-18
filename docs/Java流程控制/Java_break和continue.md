@@ -1,4 +1,3 @@
-[toc]
 
 # Java_break
 
