@@ -28,5 +28,12 @@
     - [Arrays类](/Java数组/JavaArrays类.md)
     - [冒泡排序](/Java数组/Java冒泡排序.md)
     - [稀疏数组](/Java数组/Java稀疏数组.md)
+  
+- Java面向对象
+    - [面向对象](/Java面向对象/面向对象.md)
+  
+- Java异常
+    - [异常](/Java异常/异常.md)
+  
 
-- 未完待续
+- 文章结构持续优化中
