@@ -1,7 +1,4 @@
 <!-- 侧边栏 -->
-- 目录
-    - [README](README.md)
-
 - Java基础
     - [注释](/Java基础/Java注释.md)
     - [标识符与关键字](/Java基础/Java标识符与关键字.md)
